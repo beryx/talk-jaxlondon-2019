@@ -806,7 +806,7 @@ include::{basedir}/prj-6/build.jvmargs.gradle[indent=0]
 
 == Custom runtime images for modular applications
 
-[size175]#*The ModiTect approach:*#
+[size175]#*Using Gunnar Morling's https://github.com/moditect/moditect/blob/master/README.md[ModiTect]*#
 
 * [size175]#for each non-modularized artifact in the dependency graph:#
 ** [size175]#generate a module descriptor and add it to the artifact#
